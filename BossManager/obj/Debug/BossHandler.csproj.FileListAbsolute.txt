@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\BloonsTD6\Mods\BossHandler.dll
+C:\Program Files (x86)\Steam\steamapps\common\BloonsTD6\Mods\BossHandler.pdb
+C:\Users\naoki\Desktop\repos2\BossManager\obj\Debug\BossHandler.csproj.AssemblyReference.cache
+C:\Users\naoki\Desktop\repos2\BossManager\obj\Debug\BossHandler.csproj.CoreCompileInputs.cache
+C:\Users\naoki\Desktop\repos2\BossManager\obj\Debug\BossHandler.dll
+C:\Users\naoki\Desktop\repos2\BossManager\obj\Debug\BossHandler.pdb
